@@ -5,6 +5,46 @@
     <color name="purple_700">#FF3700B3</color>
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+<!--    <color name="black">#FF000000</color>-->
+<!--    <color name="white">#FFFFFFFF</color>-->
+
+    <!-- Primary colors - Professional blue palette -->
+    <color name="primary_blue">#2196F3</color>
+    <color name="primary_blue_dark">#1976D2</color>
+    <color name="primary_blue_light">#BBDEFB</color>
+
+    <!-- Accent colors -->
+    <color name="accent_blue">#03DAC6</color>
+    <color name="accent_blue_dark">#00BCD4</color>
+
+    <!-- Background colors -->
+    <color name="background_light">#FAFAFA</color>
+    <color name="background_dark">#121212</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="surface_dark">#1E1E1E</color>
+
+    <!-- Text colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_hint">#9E9E9E</color>
+
+    <!-- Status colors -->
+    <color name="success_green">#4CAF50</color>
+    <color name="warning_orange">#FF9800</color>
+    <color name="error_red">#F44336</color>
+
+    <!-- Basic colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+
+    <!-- Card and divider colors -->
+    <color name="card_background">#FFFFFF</color>
+    <color name="divider_color">#E0E0E0</color>
+
+    <!-- Button colors -->
+    <color name="button_primary">#2196F3</color>
+    <color name="button_secondary">#E3F2FD</color>
+    <color name="button_text_primary">#FFFFFF</color>
+    <color name="button_text_secondary">#2196F3</color>
 </resources>

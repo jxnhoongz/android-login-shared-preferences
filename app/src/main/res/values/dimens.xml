@@ -1,0 +1,42 @@
+<!-- res/values/dimens.xml -->
+<resources>
+    <!-- Spacing values -->
+    <dimen name="spacing_tiny">4dp</dimen>
+    <dimen name="spacing_small">8dp</dimen>
+    <dimen name="spacing_medium">16dp</dimen>
+    <dimen name="spacing_large">24dp</dimen>
+    <dimen name="spacing_xlarge">32dp</dimen>
+    <dimen name="spacing_xxlarge">48dp</dimen>
+
+    <!-- Card and container spacing -->
+    <dimen name="card_margin">16dp</dimen>
+    <dimen name="card_padding">24dp</dimen>
+    <dimen name="card_corner_radius">12dp</dimen>
+    <dimen name="card_elevation">8dp</dimen>
+
+    <!-- Button dimensions -->
+    <dimen name="button_height">48dp</dimen>
+    <dimen name="button_corner_radius">8dp</dimen>
+    <dimen name="button_padding_horizontal">24dp</dimen>
+
+    <!-- Input field dimensions -->
+    <dimen name="input_height">56dp</dimen>
+    <dimen name="input_margin_bottom">16dp</dimen>
+
+    <!-- Touch targets -->
+    <dimen name="min_touch_target">48dp</dimen>
+
+    <!-- Logo and icon sizes -->
+    <dimen name="logo_size">120dp</dimen>
+    <dimen name="icon_size_small">24dp</dimen>
+    <dimen name="icon_size_medium">32dp</dimen>
+    <dimen name="icon_size_large">48dp</dimen>
+
+    <!-- Text sizes -->
+    <dimen name="text_size_headline">32sp</dimen>
+    <dimen name="text_size_title">24sp</dimen>
+    <dimen name="text_size_subtitle">18sp</dimen>
+    <dimen name="text_size_body">16sp</dimen>
+    <dimen name="text_size_caption">14sp</dimen>
+    <dimen name="text_size_small">12sp</dimen>
+</resources>

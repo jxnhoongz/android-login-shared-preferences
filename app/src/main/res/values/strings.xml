@@ -1,3 +1,61 @@
 <resources>
     <string name="app_name">login_shared_pref</string>
+
+    <!-- Login screen -->
+    <string name="login_title">Welcome Back</string>
+    <string name="login_subtitle">Sign in to your account</string>
+    <string name="hint_email">Email address</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Sign In</string>
+    <string name="btn_register">Create Account</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="remember_me">Remember me</string>
+
+    <!-- Register screen -->
+    <string name="register_title">Create Account</string>
+    <string name="register_subtitle">Join us today</string>
+    <string name="hint_full_name">Full name</string>
+    <string name="hint_confirm_password">Confirm password</string>
+    <string name="btn_register_submit">Create Account</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="btn_back_to_login">Sign In</string>
+
+    <!-- Main/Dashboard screen -->
+    <string name="welcome_message">Welcome, %1$s!</string>
+    <string name="dashboard_title">Dashboard</string>
+    <string name="btn_logout">Logout</string>
+    <string name="profile_section">Profile</string>
+    <string name="settings_section">Settings</string>
+
+    <!-- Splash screen -->
+    <string name="loading">Loading...</string>
+
+    <!-- Validation messages -->
+    <string name="error_empty_email">Email is required</string>
+    <string name="error_invalid_email">Please enter a valid email</string>
+    <string name="error_empty_password">Password is required</string>
+    <string name="error_short_password">Password must be at least 6 characters</string>
+    <string name="error_empty_name">Full name is required</string>
+    <string name="error_password_mismatch">Passwords do not match</string>
+    <string name="error_user_exists">User already exists</string>
+    <string name="error_invalid_credentials">Invalid email or password</string>
+    <string name="error_registration_failed">Registration failed. Please try again</string>
+
+    <!-- Success messages -->
+    <string name="success_registration">Account created successfully</string>
+    <string name="success_login">Welcome back!</string>
+    <string name="success_logout">Logged out successfully</string>
+
+    <!-- Content descriptions for accessibility -->
+    <string name="cd_app_logo">App logo</string>
+    <string name="cd_show_password">Show password</string>
+    <string name="cd_hide_password">Hide password</string>
+    <string name="cd_back_button">Back</string>
+
+    <!-- Dialog messages -->
+    <string name="logout_confirmation">Are you sure you want to logout?</string>
+    <string name="btn_yes">Yes</string>
+    <string name="btn_no">No</string>
+    <string name="btn_cancel">Cancel</string>
 </resources>
